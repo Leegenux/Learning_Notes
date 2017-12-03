@@ -85,3 +85,14 @@
 3. rm
 
 > remove
+
+#### 8.GPT MBR 多重引导
+
+gpt是GUID partion table 是更高级的分区方式 (可能使用大概2M  BIOS boot来保存更多的系统启动代码)
+
+MBR是一种普通的分区方式, 无法支持更多的存储
+
+多重引导是通过bootloader 
+
+> 每个分区可以拥有自己的"开机扇区 boot sector"(类似于MBR区或者LBA0的东西)
+> 这是实现多重引导的原因.

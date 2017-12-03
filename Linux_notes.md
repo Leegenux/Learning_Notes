@@ -72,3 +72,16 @@
 2. MBR
 3. Boot Loader
 4. Kernel
+
+#### 7.常用文件操作指令
+
+1. mv
+> 也就是move
+
+2. cp
+
+> copy
+
+3. rm
+
+> remove

@@ -1,1 +1,1 @@
-# Some notes about git, Markdown and Linux.
+# Some notes about Git, Markdown and Linux.

@@ -1,4 +1,4 @@
-# Linux_notes
+# Linux&Shell_notes
 
 #### 1.操作系统的多个层面:
 

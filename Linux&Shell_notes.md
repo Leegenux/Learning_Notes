@@ -1,35 +1,35 @@
 目录: [貌似不能用TOC]
 Linux_notes 
-   1.操作系统的多个层面:   
-   2.linux设备即文件的表现---设备的"文件名" 
-   3.磁盘的重要部分   
-   4.磁盘*扇区*,*磁道*和*柱面*的简单概念 
-   5.分区  
-   6.电脑开机流程    
+   1.操作系统的多个层面:      
+   2.linux设备即文件的表现---设备的"文件名"    
+   3.磁盘的重要部分      
+   4.磁盘*扇区*,*磁道*和*柱面*的简单概念       
+   5.分区        
+   6.电脑开机流程       
    7.常用文件操作指令     
-   8.GPT MBR 多重引导    
-   9.命令 scp :  
+   8.GPT MBR 多重引导       
+   9.命令 scp :     
    10.ps   
-   11.cat  
-   12.top: 
-   13.ps   
-   14.echo(回声)   
+   11.cat   
+   12.top:     
+   13.ps    
+   14.echo(回声)    
    15.ls   
    16.pwd   
-   17.netstat  
-   18.more 和 less 
-   19.在线求助 man 与 info  
-   20.touch   
-   21.rmdir 
+   17.netstat     
+   18.more 和 less    
+   19.在线求助 man 与 info   
+   20.touch    
+   21.rmdir    
    22.echo  
-   23.head tail  
-   24.find命令   
-   25.gdb   
-   26.env   
-   27.alias 
-   28.文件权限:   
+   23.head tail   
+   24.find命令      
+   25.gdb      
+   26.env      
+   27.alias    
+   28.文件权限:    
    
-Shell_notes 
+Shell_notes    
    1.一个简单的shell   
    2.对于 >> > 的一些理解:  
    3.命令行参数 $0 $1 $2 ... $9 ${10}    

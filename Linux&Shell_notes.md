@@ -28,12 +28,13 @@ Linux_notes
    26.env   
    27.alias 
    28.文件权限:   
-Shell_notes
-   1.一个简单的shell  
-   2.对于 >> > 的一些理解: 
-   3.命令行参数 $0 $1 $2 ... $9 ${10}   
-   4.$var 和 var 区别与联系: 
-   5.chmod  
+   
+Shell_notes 
+   1.一个简单的shell   
+   2.对于 >> > 的一些理解:  
+   3.命令行参数 $0 $1 $2 ... $9 ${10}    
+   4.$var 和 var 区别与联系:  
+   5.chmod     
 
 # Linux_notes
 #### 1.操作系统的多个层面:

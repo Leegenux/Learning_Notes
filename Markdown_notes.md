@@ -1,7 +1,5 @@
-# Markdown_notes{#返回目录}  //缺乏易懂的事例
+# [Markdown_notes]{#返回目录}
 ---
-[TOC]
-
 #### markdown的段落
 段落是由空格标定.
 > 此处和python的统一性: python的空格也有的有严格定义, 有的没有.       

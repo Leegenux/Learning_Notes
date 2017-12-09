@@ -1,6 +1,4 @@
-[TOC]
-
-[我的有道云笔记分享,查看目录](http://note.youdao.com/noteshare?id=245c2da5c9fb227ffb1af8ac0d9c66bb "点击跳转")
+[显示目录](http://note.youdao.com/noteshare?id=245c2da5c9fb227ffb1af8ac0d9c66bb "点击跳转")
 
 # Linux_notes
 #### 1.操作系统的多个层面:
